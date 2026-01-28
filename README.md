@@ -2,7 +2,7 @@
 **Submitted by:** Hardik Tiwari
 **Role:** Product Management Trainee Applicant
 
-### 🚀 [Click Here to View Live Figma Prototype](https://log-plot-89847175.figma.site)
+## 👉👉 [Click Here to View Live Figma Prototype](https://log-plot-89847175.figma.site) 👈👈
 
 ---
 
@@ -96,4 +96,7 @@ To ensure this design is feasible, I identified these key technical consideratio
 ---
 
 ## About the Creator
-**Hardik Tiwari** | Final Year
+**Hardik Tiwari** | Final Year B.Tech (CSE & Cybersecurity)
+* **Experience:** Product Analyst Intern @ Dhwani Rural Information Systems.
+* **Focus:** Bridging the gap between complex security infrastructure and intuitive user experience.
+* **Contact:** https://www.linkedin.com/in/hardiktiwaricpahi/ | iamhardiktiwari@gmail.com | www.caphi.in
